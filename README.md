@@ -44,7 +44,7 @@ k get csr
 k certificate approve pavan
 ```
 ```
-`k describe csr pavan`
+k describe csr pavan
 ```
 ![image](https://github.com/user-attachments/assets/fa3baa79-b5ce-4184-ba27-599c31f3712f)
 
