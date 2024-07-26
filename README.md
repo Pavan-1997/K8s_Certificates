@@ -50,7 +50,7 @@ k certificate approve pavan
 
 (Now you can see its Approved)
 
-**8. IF, To deny a csr**
+**8. If, To deny a csr**
 ```
 k certificate deny pavan
 ```
