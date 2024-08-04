@@ -33,7 +33,7 @@ k get csr
 (Shows as Pending as you have not approved it)
 
 ```
-`k describe csr pavan`
+k describe csr pavan
 ```
 ![image](https://github.com/user-attachments/assets/adde8245-5d76-4ab6-86c0-dfef9986d66f)
 
